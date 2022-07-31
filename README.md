@@ -4,7 +4,8 @@ I've took the course Robot Appium for Android Apps of the QAcademy school and al
 
 
 - [x] VScode IDE
-- [x] Appium Library
+- [x] Android Visual Studio
+- [x] Appium // Appium Library
 - [x] Robot Framework
 - [x] Python
 
