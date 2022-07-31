@@ -26,9 +26,9 @@ It should remove Captain America of Avengers list
 
     Swipe By Percent    88.88    18.22    48.14    18.22
 
-    Wait Until Element is Visible       ${BTN_REMOVE}
+    Wait Until Element is Visible       ${BTN_REMOVE}           
     #Wait Until Page Contains Element    ${BTN_REMOVE}       10s
     Click Element                       ${BTN_REMOVE}
-    #Sleep                               3
+    Sleep                               3
 
     
