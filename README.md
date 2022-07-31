@@ -1,8 +1,5 @@
 # Test Cases - Training Wheels Protocol Mobile Version - QAcademy
 
-Participei do curso Robot Appium para Android Apps do QAninja e através das aulas, realizei esses casos de testes no app.
-Foi utilizado as seguintes configurações:
-
 I've took the course Robot Appium for Android Apps of the QAcademy school and along the lessons I've performed these test cases on the app. I've used the following setup:
 
 
